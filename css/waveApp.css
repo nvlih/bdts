@@ -1,0 +1,63 @@
+.dtm-wvhdr {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1004;
+    background: #2d2d2d;
+    height: 44px;
+    color: #f0f0f0;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 1px;
+}
+.dtm-wvhdr img.dtm-wvlogo {
+    position: absolute;
+    left: 15px;
+    top: 6px;
+    width: 110px;
+    overflow: hidden;
+    cursor: pointer;
+    border-width: 0;
+}
+.dtm-wvhdr .dtm-user-info {
+    display: inline-block;
+    position: absolute;
+    top: 14px;
+    right: 80px;
+    height: 24px;
+    line-height: 24px;
+}
+.dtm-wvhdr .dtm-user-info a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: inherit;
+    color: #333333;
+    text-decoration: none;
+    cursor: pointer;
+    color: #f0f0f0;
+}
+.dtm-wvhdr .dtm-user-info a:active,
+.dtm-wvhdr .dtm-user-info a:focus {
+    outline: none;
+}
+.dtm-wvhdr .dtm-user-info a:active,
+.dtm-wvhdr .dtm-user-info a:focus {
+    outline: none;
+}
+.dtm-wvhdr .dtm-user-info a:active,
+.dtm-wvhdr .dtm-user-info a:focus {
+    outline: none;
+}
+.dtm-wvhdr .dtm-user-info a:active,
+.dtm-wvhdr .dtm-user-info a:focus {
+    outline: none;
+}
+.dtm-wvhdr .dtm-echarts-logo img {
+    position: absolute;
+    right: 16px;
+    top: 6px;
+    width: 34px;
+    overflow: hidden;
+    border-width: 0;
+}
